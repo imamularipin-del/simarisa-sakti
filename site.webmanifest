@@ -1,10 +1,16 @@
 {
+  "id": "/",
   "name": "Simarisa-sakti LMS",
   "short_name": "Simarisa",
+  "description": "Kelola kelas, bagikan materi, dan nilai tugas dalam satu tempat.",
+  "lang": "id",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
+  "orientation": "any",
   "background_color": "#F6F4FF",
   "theme_color": "#6C4DF6",
+  "categories": ["education"],
   "icons": [
     { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
     { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
