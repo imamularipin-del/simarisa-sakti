@@ -1,5 +1,5 @@
 /* Service worker Simarisa-sakti. Naikkan nomor VERSI jika ingin memaksa cache lama dibuang. */
-const VERSI = 'simarisa-v1';
+const VERSI = 'simarisa-v2';
 const SHELL = ['/', '/favicon.svg', '/icon-192.png', '/icon-512.png', '/apple-touch-icon.png', '/site.webmanifest'];
 const CDN = ['cdn.jsdelivr.net', 'fonts.googleapis.com', 'fonts.gstatic.com'];
 
